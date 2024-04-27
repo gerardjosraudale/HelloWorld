@@ -6,7 +6,7 @@ This a basic Hello Word program.
 
 I created this to demostarte the use of VS Code, Github, and Python integrate together.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+
 
 [Software Demo Video](https://youtu.be/OGMrAnndznY)
 
